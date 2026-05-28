@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="60%"/> <br>
+<!-- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="60%"/> <br> -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Workspace" width="40%"/><br>
 
 <h1>Hi 👋 I'm Abdalmalek Youssef </h1>
